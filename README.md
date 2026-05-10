@@ -1,4 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey!%20I'm%20Bekhruzbek&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Ajou%20University%20Graduate%20🇰🇷&descSize=20&descAlignY=60)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" title="Bekhruzbek" width="100%" />
+
+*<h1 align="center" > Hello, I'm Bekhruzbek </h1>*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=60&pause=200&color=FEFAE0&center=true&vCenter=true&width=2000&height=100&lines=👋+Nice+to+meet+you!)](https://git.io/typing-svg)
+</br></br></br>
+
+---
 
 <div align="center">
   
